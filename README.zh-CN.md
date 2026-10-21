@@ -2,6 +2,8 @@
 
 一个给 MacBook 用的菜单栏小工具：合盖时关闭蓝牙，开盖超过设定角度后重新开启，减少休眠期间的蓝牙活动。
 
+已知macOS27.0.1及之前版本中未提供“合盖关闭蓝牙“及”睡眠关闭蓝牙“的设置选项，本工具旨在解决此问题。
+
 [English](README.md) · [下载 v1.2.0](https://github.com/catquickly/MacBook-Bluetooth-Auto-Off-on-Sleep/releases/tag/v1.2.0)
 
 ## 使用要求
