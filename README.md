@@ -2,6 +2,8 @@
 
 A menu bar app for MacBook that turns Bluetooth off as you close the lid and back on when you open it past a set angle. Built to reduce Bluetooth activity while the Mac sleeps.
 
+macOS 27.0.1 and earlier do not provide settings for “turn off Bluetooth when closing the lid” or “turn off Bluetooth on sleep.” This tool aims to solve that problem.
+
 [简体中文](README.zh-CN.md) · [Download v1.2.0](https://github.com/catquickly/MacBook-Bluetooth-Auto-Off-on-Sleep/releases/tag/v1.2.0)
 
 ## Requirements
