@@ -1,0 +1,28 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Swift and Xcode output
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Local installers and build products; attach the current DMG to GitHub Releases.
+releases/
+dist/
+build/
+*.app/
+*.dmg
+*.dSYM/
+
+# Local credentials and temporary files
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.mobileprovision
+*.log
+*.tmp
